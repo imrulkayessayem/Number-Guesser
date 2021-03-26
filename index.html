@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="/android-chrome-512x512.png">
+    <title>Number Guesser</title> 
+</head>
+<body>
+    <div class="container">
+        <h1>Number Guesser</h1>
+        <div id="game">
+            <p>Guess A Number <span class="min-num"></span> and <span class="max-num"></span> </p>
+            <input type="number" id="guess-input" placeholder="Enter Your Guess"><br>
+            <input type="submit" value="Submit" id="guess-btn"><br>
+
+            <!-- Loading -->
+
+            <div class="loading">
+                <img src="loading-2.gif" alt="">
+            </div>
+
+            <p class="messege"></p>
+
+            <img class="win-img" src="./minions.gif" alt=""> <br>
+
+            <img class="lose-img" src="/giphy (1).gif" alt="">
+
+            <img class="game-over" src="/giphy.gif" alt="">
+
+            <img src="./200.gif" alt="" class="think">
+
+        </div>
+        
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

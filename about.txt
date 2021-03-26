@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Asul
+- Font Author: Copyright (c) 2011, Mariela Monsalve (marmonsalve@gmail.com), with Reserved Font Name "Asul"
+- Font Source: http://fonts.gstatic.com/s/asul/v12/VuJ-dNjKxYr46fMFXK78JIg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
